@@ -321,48 +321,4 @@ docker-compose up -d
 ✅ HTTPS support in production
 ✅ Secure password hashing
 
-## 📈 Future Enhancements
 
-- [ ] User authentication and authorization
-- [ ] Advanced analytics dashboard
-- [ ] Bulk URL shortening
-- [ ] URL preview feature
-- [ ] Custom branding domain support
-- [ ] API rate limiting
-- [ ] Webhook support for events
-- [ ] Integration with Slack/Discord
-- [ ] Mobile app
-- [ ] Browser extension
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-MIT License - feel free to use this project for personal and commercial purposes.
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Create an [issue](https://github.com/hemu-08/URL-shortner/issues)
-- Check [discussions](https://github.com/hemu-08/URL-shortner/discussions)
-- Email: support@example.com
-
-## 🙏 Acknowledgments
-
-- Flask community for the excellent web framework
-- SQLAlchemy for database ORM
-- The open-source community
-
----
-
-**Happy URL Shortening! 🚀**
-
-Made with ❤️ by [hemu-08](https://github.com/hemu-08)
